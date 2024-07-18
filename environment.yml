@@ -1,16 +1,12 @@
-name: example-environment
+name: environment.3
 channels:
   - conda-forge
   - bioconda
   - defaults
 dependencies:
   - python=3.9
-  - r-base=4.0
-  - plotly
-  - pandas
-  - matplotlib
-  - scikit-learn
-  - numpy
+  - r-base=4.1.3
+  - r-caret
   - r-dplyr
   - r-ggplot2
   - r-tidyverse
