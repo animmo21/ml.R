@@ -11,6 +11,9 @@ dependencies:
   - r-caret
   - r-dplyr
   - r-ggplot2
+  - r-kernlab
+  - r-GGally
+  - r-randomForest=4.7-1.1
   - r-tidyverse
   - r-plotly
   - r-stringr
